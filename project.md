@@ -5,17 +5,17 @@
 \* Tem alguma idéia/contribução? Dê uma olhada no mapa.
 
 ## Perfis de usuários / Personas?
-* Turista A
+* Turista A 
 * Turista B
-* Lazer A
-* Lazer B
-* Esporte A
-* Esporte B
-* Ciclista/Transporte A
-* Ciclista/Transporte B
-* Ciclista/Transporte C
-* Quer começar A
-* Quer começar B
+* Lazer A - Cristiano Machado
+* Lazer B - Watson Rodrigues
+* Esporte A - Gilson Silva
+* Esporte B - 
+* Ciclista/Transporte A - Junior Nogueira - Gabriel Dilay
+* Ciclista/Transporte B - Artur Mittlebach - Fabiane  - Rafael Camargo - Fred Van Amstel
+* Ciclista/Transporte C - Leone Pierin
+* Quer começar A - Leandro Pierin
+* Quer começar B - 
 
 --------------------------------------------------------------------------------------------------------
 ## MAPA
