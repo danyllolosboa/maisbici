@@ -1,0 +1,56 @@
+/////////////////////Design thinkings
+
+///////////Porque cadastrar e qual a diferença entre não cadastrar, cadastrar via e-mail ou via facebook?
+
+O cadastro baseia-se em três questões: coleta de dados, inserir pontos de interesse e inserir grupos de pedaladas. 
+Caso o usuário não se cadastre não poderiamos coletar informações (anarcociclistas se sentiriam mais a vontade) e o usuário
+não poderia inserir pontos de interesse e nem grupos de pedaladas, pois deixar um usário não-cadastrado criar esse tipo de 
+informação pode ser perigoso (alguém mal intencionado cria uma pedalada falsa e furta a bike de ciclistas que se interessarem na 
+pedalada. A diferença entre cadastrar com e-mail ou com facebook/google+ seria a questão do compartilhamento de informações como rotas, 
+ponto de interesse e pedaladas. 
+
+/////////// Cálculo de rotas
+
+O cálculo de rotas respeitaria as questões de bikeability, ou seja os locais que são mais propícios para utilizar a bicicleta. Porém
+seria interessante se o usuário pudesse desenhar sua rota no mapa e puder usar em outros apps como o Strava por exemplo. Outro ponto 
+importante é dar ao usuário a possibilidade de avaliar a rota
+
+///////////Pontos de Interesses e Pontos Críticos
+
+Existem muitos pontos desconhecidos que são revelevantes e interessantes para ciclistas que atualmente não aparecem no google maps tais 
+como Oficinas, Bicicletarias, Paraciclos, postos de gasolina (bomba de encher pneus). 
+Os pontos críticos seriam pontos onde existem obstáculos para andar de bicicleta, como falta de pavimentação, infra-estrutura ruim, 
+má-sinalização, assaltos/furtos.
+
+///////////Grupos de Pedal
+
+Podemos dividir os grupos de pedaladas em dois: Pedaladas para lazer (bikefun) e pedaladas cotidianas (bikebus).
+Os primeiros são grupos de pedaladas que tem um objetivo de andar com os amigos em grupo. Já o segundo que de certo modo também tem
+o mesmo objetivo do primeiro, porém com o objetivo de ir ou voltar em grupos. Andar em grupo é mais seguro para os ciclistas
+(menos chances de ser assaltado ou atropelado). Seria interessante o app avisar o momento em que um bike-bus está saindo perto do 
+usuário para ele poder ir com a galera. Os usuários cadastrados poderão criar ambos os grupos e esses grupos poderão ser avaliados pelos 
+ciclistas com like positivo ou negativo (o organizador não apareceu por exemplo). A comunicação entre esses grupos fica por conta dos
+próprios usuários em outros apps como Wapp, Telegram, Facebook, etc.
+
+///////////Notícias
+
+Notícias importantes como atualização de rotas, eventos, reuniões, etc. Essas notícias podem ter uma seção própria, sem a necessidade
+de notificações.
+
+//////////Agenda
+
+A ideia aqui é o usuário ter uma agenda onde ele pode marcar ou desmarcar eventos de seu interesse. Esses eventos seriam os grupos de
+pedaladas, ciclolazer, reuniões de ciclistas (Setran, Cicloiguaçu, Bicicletaria cultural). O aplicativo avisaria o usuário 1 dia antes
+ou 3 horas antes.
+
+//////////Taxis e ônibus
+
+Uma lista com telefones de rádio-taxis que possuem aparato para levar a bicicleta. O usuário poderia fazer a ligação direto do 
+aplicativo. Outra coisa seria a informação de que ônibus aceitam bicicletas.
+
+//////////BikeSharing
+
+Até final do ano o aluguel de bikes estará funcionando em Curitiba. Os pontos precisam estar inclusos no mapa.
+
+//////////
+
