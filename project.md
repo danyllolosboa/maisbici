@@ -5,17 +5,28 @@
 \* Tem alguma idéia/contribução? Dê uma olhada no mapa.
 
 ## Perfis de usuários / Personas?
-* Turista A
-* Turista B
-* Lazer A
-* Lazer B
-* Esporte A
-* Esporte B
-* Ciclista/Transporte A
-* Ciclista/Transporte B
-* Ciclista/Transporte C
-* Quer começar A
-* Quer começar B
+* Turista A - Turista de outras cidades do Brasil
+Não conhece a cidade
+* Turista B - Turista estrangeiro
+Não conhece a cidade, Não fala, escuta ou lê em português (talvez), Sinais de trânsito podem ser diferentes, A ciclomobilidade em seu pais pode ser melhor ou pior que a de Curitiba,
+* Lazer A - Anda de bicicleta com a esposa e com os filhos nos parques da cidade
+Ciclista de fim de semana, Prefere o parque das cidades às ruas pela segurança, 
+* Lazer B - Anda em grupos de pedaladas
+Anda pela amizade, pelo ventinho e por pertencer a um grupo
+* Esporte A - Nível easy - emagrecer, melhorar condicionamento fisíco
+Prefere parques, ruas menos movimentadas e de menor velocidade, ciclofaixas, ciclovias, 
+* Esporte B - nível hard - percorrer longas distâncias ou maratonas e corridas
+Prefere vias em bom estado ou acostamento para andar em ritmo intenso
+* Ciclista/Transporte A - Vai de bike para o trabalho
+Tem uma rotina de dias úteis com a bike
+* Ciclista/Transporte B - Vai de bike para a faculdade ou escola
+Tem uma rotina de dias úteis com a bike
+* Ciclista/Transporte C - Vai a todos os lugares de bike
+Usa a bike todos os dias para ir para todos os lugares
+* Quer começar A - Quer começar mas não tem bicicleta
+Tem consciência ambiental, mas não tem dinheiro para comprar bicicleta e acessórios. Busca outras formas de preservar o meio-ambiente
+* Quer começar B - Quer começar mas tem medo
+Tem consciência ambiental, mas tem medo de andar junto com os carros. Busca outras formas de preservar o meio-ambiente
 
 --------------------------------------------------------------------------------------------------------
 ## MAPA
